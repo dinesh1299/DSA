@@ -10,4 +10,4 @@ def binarysearch(v, a):
         else:
             s = m - 1
 
-print(binarysearch(6, [1,4,6,7,9,10,33,44]))
+print(binarysearch(6, [1, 4, 6, 7, 9, 10, 33, 44]))
